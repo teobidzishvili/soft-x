@@ -37,10 +37,10 @@ A user card should be drawn with information displayed (id, name, first letter o
 
 ## screenshots
 
-![Signin page](/src/assets/signin.png "Signin page")
-![Home page](/src/assets/table.png "Table")
-![Context menu](/src/assets/contextMenu.png "Context menu")
-![Details](/src/assets/details.png "Details")
+![Signin page](/assets/signin.png "Signin page")
+![Home page](/assets/table.png "Table")
+![Context menu](/assets/contextMenu.png "Context menu")
+![Details](/assets/details.png "Details")
 
 
 ## Deploying project
